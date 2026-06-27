@@ -36,7 +36,7 @@ if (typeof Object.assign !== 'function') {
    }`;
 var rule = {
      title: '里面(满血版)',
-     host: 'https://baf7baf7.shewo11.cc',
+     host: 'https://cmp90xqz.shewo37.cc,
      url: '/vodtype/fyclass-fypage.html',
      filterable: 0,
     class_name: '国产精品&华语精品&黑料吃瓜&欧美大尺&动漫禁漫&学生合集&乱伦精品&探花约炮&日本无码&日本有码&主播网红&国产色情&自拍偷拍&人妻熟女&黑人洋屌&欧美精品&卡通动漫&乱伦中文&传媒原创&口爆颜射&韩国女优&萝莉少女&重口调教&国产直播&韩国群交&中文字幕&吃瓜爆料&角色扮演&熟女自慰&韩国直播&公开漏出&户外打炮',
@@ -68,7 +68,7 @@ class_url: '55&63&58&60&57&65&64&61&86&80&81&12&21&22&23&24&69&70&71&72&25&26&88
     list_url: 'a&&href'     // 【关键补充】提取集数链接的规则
 },
      搜索: '.pornkvideos;a&&title;img&&data-src;.vlength&&Text;a&&href',
-     linkPrefix: 'https://baf7baf7.shewo11.cc',
+     linkPrefix: 'https://cmp90xqz.shewo37.cc,
 sniff: {
          enable: 0
      }
