@@ -11,7 +11,7 @@ host = "https://put.yzfnb8.pics/cn/home/web/"
 
 headers = { 
     'User-Agent': 'Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36',
-    'Referer': 'https://apc.yzfnb8.lat/yzfnb/',
+    'Referer': 'https://put.yzfnb8.pics/cn/home/web/',
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
     'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8'
 } 
