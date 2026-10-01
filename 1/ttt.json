@@ -5,7 +5,7 @@
                         "api": "https://gh-proxy.com/https://raw.githubusercontent.com/yd7424/zyd/main/1%2FB.py",
                         "searchable": 1,
                         "quickSearch": 1,
-                        "filterable": 1,
+                        "filterable": 0,
                         "changeable": 0,
                         "style": {
                                 "type": "rect",
