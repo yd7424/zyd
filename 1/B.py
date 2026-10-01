@@ -7,7 +7,7 @@ from base.spider import Spider
 
 class Spider(Spider):
     def init(self, extend=""):
-        self.siteUrl = "https://wxts.wuxiants850.com"
+        self.siteUrl = "https://put.yzfnb8.pics/cn/home/web/"
         self.headersList = [
             {
                 "User-Agent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36",
