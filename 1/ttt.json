@@ -1,6 +1,17 @@
 {
   "sites": [
-  {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js"},
+                          {"name": "BAD[py]",
+                        "type": 3,
+                        "api": "https://gh-proxy.org/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/py/bad.py",
+                        "searchable": 1,
+                        "quickSearch": 1,
+                        "filterable": 0,
+                        "changeable": 0,
+                        "style": {
+                                "type": "rect",
+                                "ratio": 1.6
+                        }
+                },
 
   ]
 }
