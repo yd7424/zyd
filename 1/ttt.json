@@ -1,6 +1,7 @@
 {
     "sites": [
         {
+            "key": "bad_py",
             "name": "BAD[py]",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/yd7424/zyd/main/1/B.py",
@@ -8,9 +9,10 @@
             "quickSearch": 1
         },
         {
+            "key": "yzf_py",
             "name": "优质粉[py]",
             "type": 3,
-            "api": "csp_test",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/yd7424/zyd/main/1/优质粉.py",
             "searchable": 1,
             "quickSearch": 1
         }
